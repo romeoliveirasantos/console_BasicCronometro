@@ -12,3 +12,4 @@ C:\DEV\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
 C:\DEV\Cronometro\obj\Debug\net8.0\Cronometro.pdb
 C:\DEV\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
 C:\DEV\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll
+C:\DEV\Cronometro\obj\Debug\net8.0\Cronometro.sourcelink.json

@@ -5,8 +5,7 @@ namespace Cronometro
   class Program
   {
     static void Main(string[] args)
-    {
-      //Start(6);
+    {      
       Menu();
     }
     
